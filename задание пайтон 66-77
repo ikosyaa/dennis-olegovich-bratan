@@ -1,0 +1,136 @@
+задание 66
+class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 67
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 68
+
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 69
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 70
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 71
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 72
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 73
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 74
+
+  class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 75
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+
+    задание 76
+    class ShoppingCart:
+
+  def __init__(self):
+    self.items = []  
+
+  def add_item(self, price):
+    self.items.append(price)
+
+  def __call__(self):
+    return sum(self.items)
+    
+    
+    
